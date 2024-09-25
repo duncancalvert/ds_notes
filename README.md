@@ -1,3 +1,3 @@
-# Natural Language Processing (NLP) Notes and Resources
+# Data Science - Notes, Resources, and Templates
 
-A compilation of Natural Language Processing notes and resource links
+A compilation of various resources and templates I love and use
