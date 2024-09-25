@@ -2,3 +2,6 @@ pandas
 
 # Data
 palmerpenguins # open source penguins data set used in "prediction" template
+
+# AutoEDA
+autoviz
