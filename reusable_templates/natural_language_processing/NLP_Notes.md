@@ -3,4 +3,5 @@
 ### Reusable Data Sets
 
 Bluesky
-* [1 Million Posts](https://huggingface.co/datasets/noteuclaise/bluesky_1M_metaposts?utm_source=convertkit&utm_medium=email&utm_campaign=A+Spark+of+the+Anti-AI+Butlerian+Jihad+%28on+Bluesky%29+-+15954467)
+* [1 Million Bluesky Posts](https://huggingface.co/datasets/noteuclaise/bluesky_1M_metaposts)
+* [the complete post history of over 4M users (81% of all registered accounts), totaling 235M posts](https://zenodo.org/records/11082879)
