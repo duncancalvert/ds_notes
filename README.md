@@ -4,7 +4,7 @@ A compilation of various resources and templates I love and use
 
 ## Table of Contents
 * [Reusable Data Sets](#reusable-data-sets)
-* [Books](#Books)
+* [Books](#books)
 
 ## Reusable Data Sets
 
