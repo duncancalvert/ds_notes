@@ -6,7 +6,7 @@ A compilation of various resources and templates I love and use
 * [Reusable Data Sets](#reusable-data-sets)
 * [Books](#books)
 
-## Reusable Data Sets
+## Reusable High Quality Data Sets
 
 Bluesky
 * [1 Million Bluesky posts](https://huggingface.co/datasets/noteuclaise/bluesky_1M_metaposts)
